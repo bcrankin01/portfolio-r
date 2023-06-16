@@ -1,0 +1,45 @@
+.landing-wrapper {
+    /* background-image: url('../../public/images/paper.jpg'); */
+    background: #1F6E8C;
+    color: white;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 100%;
+    height: calc(100vh - 80px);
+    position: relative;
+}
+
+.landing-content {
+    align-self: center;
+    justify-self: center;
+    text-align: end;
+    height: 20vh;
+    margin-top: 35%;
+    margin-right: 40px;
+}
+
+.prof-logo {
+    transition: transform 0.3s ease;
+  }
+  
+  .prof-logo:hover {
+    transform: scale(1.3);
+  }
+
+
+
+.landing-wrapper > img {
+    padding-bottom: 0;
+    margin: 20px 40px;
+    width: 756px;
+    height: 1008px;
+}
+
+Button {
+    margin-bottom: 15px;
+}
+
+/* .landing-content {
+    background: black;
+} */

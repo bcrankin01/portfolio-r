@@ -1,0 +1,21 @@
+.skills-wrapper {
+    display: flex;
+    color: white;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: #84A7A1;
+}
+
+.header {
+    margin-bottom: 40px;
+}
+
+.skills-wrapper .row {
+    margin-top: 100px;
+    padding-bottom: 70px;
+}
+
+.skill-btn {
+    margin-top: 100px;
+}
